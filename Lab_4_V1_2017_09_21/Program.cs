@@ -77,6 +77,7 @@ namespace Lab_4_V1_2017_09_21
             Console.WriteLine("The End");
             Console.WriteLine("The End");
             Console.WriteLine("The End");
+            Console.ReadLine();
         }
 
         static void MoveCurserToDefultePos()
